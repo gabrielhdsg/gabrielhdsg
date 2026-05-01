@@ -1,7 +1,5 @@
 ### Hi there, I'm Gabriel 🧑🏽‍💻
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielhdsg)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My technologies
 
 <div style="display: inline_block">
